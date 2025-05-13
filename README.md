@@ -52,7 +52,7 @@ To compile and execute Devbhasha programs, follow these steps:
     ```bash
     ./devbhasha Sample/hello_world.db
 
-### 🧪 Example Program
+### Example Program
 A simple Hello World program in Devbhasha:
 
 dharma HelloWorld {
@@ -66,7 +66,7 @@ samapti
 - Bison (GNU Parser Generator)
 - Unix/Linux environment (recommended)
 
-### ✨ Features
+### Features
 - Sanskrit/Hindi-inspired keywords for all programming constructs
 - Support for variables, constants, data types, loops, conditionals, and functions
 - Object-Oriented Programming (OOP) support with classes, inheritance, and methods
@@ -75,7 +75,7 @@ samapti
 - Focus on readability, structure, and cultural aesthetics
 - Programs written in Devbhasha feel native to Indian philosophy and tradition
 
-### 🙏 Acknowledgments
+### Acknowledgments
 - Special thanks to Prof. Vaibhavi Patel for her mentorship, encouragement, and guidance throughout this project
 - Heartfelt gratitude to my collaborator Vaidik Patel for his continuous support and contributions during development
 
