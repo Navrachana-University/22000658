@@ -55,10 +55,10 @@ To compile and execute Devbhasha programs, follow these steps:
 ### Example Program
 A simple Hello World program in Devbhasha:
 
-dharma HelloWorld {
-    lekha("Namaste, World!");
-}
-samapti
+- dharma HelloWorld {
+    - lekha("Namaste, World!");
+- }
+- samapti
 
 ### 💻 System Requirements
 - GCC Compiler
