@@ -53,8 +53,11 @@ To compile and execute Devbhasha programs, follow these steps:
     ./devbhasha Sample/hello_world.db
 
 ### Example Program
-<pre> ``` // Example Program dharma HelloWorld { lekha("Namaste, World!"); } samapti ``` </pre>
+dharma HelloWorld {
+lekha("Namaste, World!");
+}
 
+samapti
 ### 💻 System Requirements
 - GCC Compiler
 - Flex (Fast Lexical Analyzer)
