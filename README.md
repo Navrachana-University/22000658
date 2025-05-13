@@ -53,12 +53,7 @@ To compile and execute Devbhasha programs, follow these steps:
     ./devbhasha Sample/hello_world.db
 
 ### Example Program
-A simple Hello World program in Devbhasha:
-
-- dharma HelloWorld {
-    - lekha("Namaste, World!");
-- }
-- samapti
+<pre> ``` // Example Program dharma HelloWorld { lekha("Namaste, World!"); } samapti ``` </pre>
 
 ### 💻 System Requirements
 - GCC Compiler
